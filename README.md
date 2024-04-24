@@ -2,7 +2,7 @@
 
 ## Outline
 
-- [Outline](Outline)
+- [Outline](#Outline)
 - [[#What is it?|What is it?]]
 - [[#Features|Features]]
 	- [[#Features#Planned:|Planned:]]
