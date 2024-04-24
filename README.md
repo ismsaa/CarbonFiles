@@ -5,7 +5,7 @@
 - [Outline](#Outline)
 - [What is it?](#what-is-it?)
 - [Features](#Features)
-	- [Planned](#Features#Planned:)
+	- [Planned](#Features#planned)
 	- [What has been added?](#Features#what-has-been-added?)
 - [Extra](#Extra)
 
