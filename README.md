@@ -3,11 +3,11 @@
 ## Outline
 
 - [Outline](#Outline)
-- [[#What is it?|What is it?]]
-- [[#Features|Features]]
-	- [[#Features#Planned:|Planned:]]
-	- [[#Features#What has been added?|What has been added?]]
-- [[#Extra|Extra]]
+- [What is it?](#What is it?)
+- [Features](#Features)
+	- [Planned](#Features#Planned:)
+	- [What has been added?](#Features#What has been added?)
+- [Extra](#Extra)
 
 ##
 ***
