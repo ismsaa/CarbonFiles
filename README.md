@@ -9,15 +9,9 @@
 	- [What has been added?](#what-has-been-added)
 - [Extra](#Extra)
 
-##
-***
-
 ## What is it?
 
 A program which will replace and improve upon Windows File Explorer. Possible version for iOS/iPadOS as well because I use those and the Files app sucks. Less likely, but maybe versions for MacOS, Android, and Linux. Those three are less likely because I don't use them and I don't have any devices with those Operating Systems in order to test those applications. However, this program will be Open Source and if others wish to create ports/forks, they absolutely can.
-
-##
-***
 
 ## Features
 
@@ -41,9 +35,6 @@ A program which will replace and improve upon Windows File Explorer. Possible ve
 ### What has been added?
 
 - So far, nothing officially.
-
-##
-***
 
 ## Extra
 
