@@ -3,10 +3,10 @@
 ## Outline
 
 - [Outline](#Outline)
-- [What is it?](#What is it?)
+- [What is it?](#what-is-it?)
 - [Features](#Features)
 	- [Planned](#Features#Planned:)
-	- [What has been added?](#Features#What has been added?)
+	- [What has been added?](#Features#what-has-been-added?)
 - [Extra](#Extra)
 
 ##
